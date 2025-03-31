@@ -215,7 +215,7 @@ Test-Automation-500107796/
 
 ### GitHub Actions Artifacts
 
-![GitHub Actions Artifacts](docs\S2.png)
+![GitHub Actions Artifacts](docs/S2.png)
 
 The GitHub Actions workflow generates and stores:
 
