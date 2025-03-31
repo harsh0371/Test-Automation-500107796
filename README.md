@@ -209,7 +209,7 @@ Test-Automation-500107796/
 
 ### Test Report
 
-![Test Report 1](docs\S1.png)
+![Test Report 1](docs/S1.png)
 
 
 ### GitHub Actions Artifacts
